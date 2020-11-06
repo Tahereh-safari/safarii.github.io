@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Tahereh-safari/safarii.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tahereh-safari/safarii.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Welcome to my GitHub Pages
+<!doc type html>
+<html>
+  <body dir = "rt\"
+        <font size = "15"> <h2> <d> اطلاعات شخصی </b> </h2> <br>
+  </font>
+  <font size = "12"> نام و نام خانوادگی = طاهره صفری  <br>
+  1379/08/23 = تاریخ تولد <br>
+  ایمیل = Ibaharw5@gmail.com <br>
+  تهران - ایران <br>
+  <hr>
+  </font>
+  <font size = "15"> <h2> <b> تحصیلات </b> </h2> <br>
+  </font>
+  <font size = "12"> کارشناسی مهندسی کامپیوتر - دیپلم ریاضی و فیزیک - دیپلم زیبان - دیپلم حسابداری <br>
+  </font>
+  <hr>
+  <font size = "15"> <h2> <b> مهارت </h2> </b> <br>
+    </font>
+    <font size = "12">   آفیس- مدرس ریاضی و فیزیک و مسلط به برنامه های حسبداری  c++/ css / python <br>
+      <hr>
+    </font>
+    <font size = "15"> <h2> <b> زبان های مسلط </h2> </b> <br>
+      </font>
+      <font size = "12"> Persian - English
+      </font>
+      </div>
+    </body>
+    </html>
